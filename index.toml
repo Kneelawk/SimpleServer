@@ -16,6 +16,11 @@ hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "c905c782c9d072071f34d6e29e7636d24125e0f06281788f4782268dfa476ef4"
 metafile = true
