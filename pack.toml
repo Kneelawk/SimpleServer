@@ -1,12 +1,12 @@
 name = "Simple Server"
 author = "Kneelawk"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5627a65e381082813fbb071ee1e28d003fe7773da98136991d203b757ac88595"
+hash = "921c5707f7517979bbbe8ed8385a7b93919d099d6955f9de89944dd59878e18c"
 
 [versions]
 fabric = "0.15.11"

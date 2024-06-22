@@ -61,11 +61,6 @@ hash = "48d171b1c83f44b1d26ed5ae1ba87cb2f7d51327ccda2c79f1eae49f6e38d580"
 metafile = true
 
 [[files]]
-file = "mods/keep-some-inventory.pw.toml"
-hash = "6c8407a36b5079dee7393c5f16d5d388be8ef638451b536252cd66aabc09d530"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
 metafile = true
