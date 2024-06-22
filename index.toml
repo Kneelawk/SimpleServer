@@ -1,0 +1,166 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "71ddbffcb32c6464a78584525eb48da3e0727ba8de4105ed9bac19351ac38698"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "93d29c2876e202584a08a4754b51850730d2dbc85ae350f4fa140a854768a3bb"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "c905c782c9d072071f34d6e29e7636d24125e0f06281788f4782268dfa476ef4"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "b41e85df3ed062e362d28a4e37e78be8f79614e9c57116a86386d53caf208461"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-ruined-portals.pw.toml"
+hash = "9790f306136c1f3f26c121fa0143f6280823ea6afa13aa16ce7e173a3867f17e"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "63204962d0a0e101e1d7fb51d69190ec245400a2062ac8f2b24bde57213ed158"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "82f3eb78b1c9895044d08b3563e5bf0267b39326120be615398a259873cd1242"
+metafile = true
+
+[[files]]
+file = "mods/just-mob-heads.pw.toml"
+hash = "c90742721524977e56e3e2268792e7d77242af2c3071ea833da7ae0991e16144"
+metafile = true
+
+[[files]]
+file = "mods/just-player-heads.pw.toml"
+hash = "48d171b1c83f44b1d26ed5ae1ba87cb2f7d51327ccda2c79f1eae49f6e38d580"
+metafile = true
+
+[[files]]
+file = "mods/keep-some-inventory.pw.toml"
+hash = "6c8407a36b5079dee7393c5f16d5d388be8ef638451b536252cd66aabc09d530"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "828aef169c8a135189580d5833138ffc3af3d70117e3edcf9d0da5f6a099cc94"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "37215db466ab8ec3d0e7d05490833254411d092e8b9656d14583f0c15bd7ed37"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "51d318e0a4bc5da935a965860b815a6cb57b6ef0ff046a1c364996ca784b1582"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "e7dc935f3fecd722409969249ab762c1bd53f50e1546c6a0e32732d12aa7f6b3"
+metafile = true
+
+[[files]]
+file = "mods/polydecorations.pw.toml"
+hash = "7ee744224947b320c098b5c8f9290922c2688c85a7d79ea16c7e9977890e5ead"
+metafile = true
+
+[[files]]
+file = "mods/polydex.pw.toml"
+hash = "7a9453055107b01f1a63f89db3e089d5f282f71ab1e11a9dce3753ebbb9157c4"
+metafile = true
+
+[[files]]
+file = "mods/polyfactory.pw.toml"
+hash = "f7c62a923af626867b594fd729a88d4c03dbcf3c4d42a96ac66d08544dfeb28b"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "72308359404fc8240eead504d850e93dbcc02b5b5ea82775fb7e1eaa9885f534"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "5f1d9ca8d291d6ae4dc9528480ccf7baa362cae4520eb8319757663966aabe1d"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "e04427f203ecfd1a5d5bf9847025b1ce1c329be274eafbea1289e8c890b33dc3"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "2447d28a410c32be9675a8305128f8882ce30146d957e727dc59cb6fa8b40181"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "64b58a742f766fba51fdf1db8942d7810c71a2ea57e73b5919ae24f531e779a8"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "7a6a28c769f83459b44ec908f01a479c4c22d932b06c9e7cf38aa664270ac861"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "e47721f3247e54695165ea8bc148ed54c1d66f280fae784a6b05528582917cdb"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "40ed861a14bccb693a571b2eff11b0b9fa73f367b191be02722902ca8601510b"
+metafile = true
+
+[[files]]
+file = "mods/universal-shops.pw.toml"
+hash = "1984d7786a9d2500bc344ebdb88b7b169469ff191fee9720f1dfacea3cd39fe7"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "670b24d39ee9fb539c4b60094c615748cef9c174b69958c519b0f93d8aa2c605"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "185ede4e46e5f80854f79bce510396d8069e30b33d436a7b859b92054055eb10"
+metafile = true

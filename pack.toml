@@ -1,0 +1,16 @@
+name = "Simple Server"
+author = "Kneelawk"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "78170f7775a12fc81e446fc3360bf5ba0bb7f3c5270635c4048b07a7d4c455e5"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.21"
+
+[options]
+acceptable-game-versions = ["1.20.6"]
