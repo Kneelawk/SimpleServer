@@ -175,6 +175,11 @@ hash = "7a6a28c769f83459b44ec908f01a479c4c22d932b06c9e7cf38aa664270ac861"
 metafile = true
 
 [[files]]
+file = "mods/teabridge.pw.toml"
+hash = "bec62b64e255b592feb9b7d1e88e4eb535836a37f22a6ae97fe40842275a3814"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "e47721f3247e54695165ea8bc148ed54c1d66f280fae784a6b05528582917cdb"
 metafile = true
