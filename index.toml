@@ -60,6 +60,11 @@ hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
+file = "mods/geyser.pw.toml"
+hash = "00516bcbea0314ad8d706c858979a6e449bb174346e76cc43739887998f91e92"
+metafile = true
+
+[[files]]
 file = "mods/goml-reserved.pw.toml"
 hash = "b41e85df3ed062e362d28a4e37e78be8f79614e9c57116a86386d53caf208461"
 metafile = true
@@ -72,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
 hash = "63204962d0a0e101e1d7fb51d69190ec245400a2062ac8f2b24bde57213ed158"
+metafile = true
+
+[[files]]
+file = "mods/hurricane.pw.toml"
+hash = "a491168d4566904d98aa0e347b66cfdebf248b7ae701cb955c77209ac5dde630"
 metafile = true
 
 [[files]]
