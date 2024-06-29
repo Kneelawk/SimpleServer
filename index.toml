@@ -2,17 +2,17 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "71ddbffcb32c6464a78584525eb48da3e0727ba8de4105ed9bac19351ac38698"
+hash = "0f04e9419ee67dca92f48d2c1e8b7602e260763c52aebd13453e8449141cc5ff"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "93d29c2876e202584a08a4754b51850730d2dbc85ae350f4fa140a854768a3bb"
+hash = "8acc81bb78b6236be3e239b34cf8064f66df205e2788d54d5b79c386402551f6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
+hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-mob-heads.pw.toml"
-hash = "c90742721524977e56e3e2268792e7d77242af2c3071ea833da7ae0991e16144"
+hash = "727cb90432ba48dcffa31b0c5d159416ed15c51684814fc767c38ed8070b522e"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/polydex.pw.toml"
-hash = "7a9453055107b01f1a63f89db3e089d5f282f71ab1e11a9dce3753ebbb9157c4"
+hash = "503fab733a8250f7dd6d1956aa80670288280350c35cd8d901c7da96f0eaae32"
 metafile = true
 
 [[files]]
@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "5f1d9ca8d291d6ae4dc9528480ccf7baa362cae4520eb8319757663966aabe1d"
+hash = "7272dface3716f114037e619e4d9f143d3567a7f23618eba08efc334312b599d"
 metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "e04427f203ecfd1a5d5bf9847025b1ce1c329be274eafbea1289e8c890b33dc3"
+hash = "163d55ff9eee2ef8f32b8989bca432601fea902683fa631fed70c7684bd1ab9e"
 metafile = true
 
 [[files]]
