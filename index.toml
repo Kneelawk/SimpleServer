@@ -160,6 +160,11 @@ hash = "72308359404fc8240eead504d850e93dbcc02b5b5ea82775fb7e1eaa9885f534"
 metafile = true
 
 [[files]]
+file = "mods/polypack_host.pw.toml"
+hash = "9d28239de7ce1f4341344af51596c4804e47ff3e5cd46ef5a3d3febe3f040d7c"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "7272dface3716f114037e619e4d9f143d3567a7f23618eba08efc334312b599d"
 metafile = true
