@@ -1,6 +1,6 @@
 name = "EMI"
 filename = "emi-1.1.8+1.21+fabric.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/ivFE6ShM/emi-1.1.8%2B1.21%2Bfabric.jar"

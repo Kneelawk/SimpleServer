@@ -6,13 +6,33 @@ hash = "0f04e9419ee67dca92f48d2c1e8b7602e260763c52aebd13453e8449141cc5ff"
 metafile = true
 
 [[files]]
+file = "mods/blossomback.pw.toml"
+hash = "9c4678cdc79423aaf1ed44c36d5e60d46f0a4bfb40b1c51110ed93068fe7cb37"
+metafile = true
+
+[[files]]
+file = "mods/blossomhomes.pw.toml"
+hash = "c108c257c863e1730d448f2bf04b75e55998c6b988639c8c3ce5222fc898bf6e"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "db83028e5c934154b2e6dd654c57c4b4393a72f5459c7ae8f86a61e1dde245b9"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "e046005eeb0ece8b3251622a5cbd30eca7d1a711198096d2e06b1e15f887c51c"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "8acc81bb78b6236be3e239b34cf8064f66df205e2788d54d5b79c386402551f6"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "139f74715eceab5eb4073fd5dfd40233cef9e1abcb0dd3777368cefcd16db235"
+hash = "e01bcb125e0abc595a6e777d123c1304e903924644f7d1d5db9bebf9f763a39b"
 metafile = true
 
 [[files]]
