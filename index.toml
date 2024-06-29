@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Dynmap-3.7-beta-6-fabric-1.21.jar"
+hash = "cdc34d7c992e4135b7582878a5e53de0feca6ac18d06899ae05cab387d0161fc"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0f04e9419ee67dca92f48d2c1e8b7602e260763c52aebd13453e8449141cc5ff"
 metafile = true
