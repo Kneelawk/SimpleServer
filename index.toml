@@ -125,6 +125,11 @@ hash = "7ee744224947b320c098b5c8f9290922c2688c85a7d79ea16c7e9977890e5ead"
 metafile = true
 
 [[files]]
+file = "mods/polydex-bridge.pw.toml"
+hash = "4039f9827d644c4c2a0e349052f5542083bd94e70a4e50e95ceb88385d279955"
+metafile = true
+
+[[files]]
 file = "mods/polydex.pw.toml"
 hash = "503fab733a8250f7dd6d1956aa80670288280350c35cd8d901c7da96f0eaae32"
 metafile = true

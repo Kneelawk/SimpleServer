@@ -1,0 +1,13 @@
+name = "PolydexBridge"
+filename = "polydex-bridge-1.0.0+mc.1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cjSHexOj/versions/CioEqIcj/polydex-bridge-1.0.0%2Bmc.1.21.jar"
+hash-format = "sha1"
+hash = "0ba0fe6f1057a344703626aa51421d02da2ec040"
+
+[update]
+[update.modrinth]
+mod-id = "cjSHexOj"
+version = "CioEqIcj"
