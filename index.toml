@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "c905c782c9d072071f34d6e29e7636d24125e0f06281788f4782268dfa476ef4"
+hash = "6113e9ad5b738d95e0f517e5672f1c82b2045204af8be0505c05a4b6a78404b7"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/polydecorations.pw.toml"
-hash = "7ee744224947b320c098b5c8f9290922c2688c85a7d79ea16c7e9977890e5ead"
+hash = "3c6e8ce3f718a700ceaf36c55b4adec5c60b68488990996b1963f20440b740eb"
 metafile = true
 
 [[files]]
