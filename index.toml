@@ -30,6 +30,11 @@ hash = "e046005eeb0ece8b3251622a5cbd30eca7d1a711198096d2e06b1e15f887c51c"
 metafile = true
 
 [[files]]
+file = "mods/brewery.pw.toml"
+hash = "97090b0b369f752002902d7ed44182e4d3da8b392feec1f8f86c1b4c07c3ca17"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
@@ -72,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/geyser.pw.toml"
 hash = "00516bcbea0314ad8d706c858979a6e449bb174346e76cc43739887998f91e92"
+metafile = true
+
+[[files]]
+file = "mods/glide-away.pw.toml"
+hash = "961a2b98a616c08b03ef50a54a630191b3bef200bdfacce258793a587f8288cc"
 metafile = true
 
 [[files]]
@@ -202,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "e47721f3247e54695165ea8bc148ed54c1d66f280fae784a6b05528582917cdb"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-polymer.pw.toml"
+hash = "564d3eccc747a418c5b13a85abf931a47732811fcf60f5d506e1231fa6ead900"
 metafile = true
 
 [[files]]
