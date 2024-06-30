@@ -65,6 +65,11 @@ hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
+file = "mods/floodgate.pw.toml"
+hash = "32dd0940c5448979bbd6e526825ea579293a3c05096ab5db99eb588b99264186"
+metafile = true
+
+[[files]]
 file = "mods/geyser.pw.toml"
 hash = "00516bcbea0314ad8d706c858979a6e449bb174346e76cc43739887998f91e92"
 metafile = true
