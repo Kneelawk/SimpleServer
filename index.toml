@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "e01bcb125e0abc595a6e777d123c1304e903924644f7d1d5db9bebf9f763a39b"
+hash = "139f74715eceab5eb4073fd5dfd40233cef9e1abcb0dd3777368cefcd16db235"
 metafile = true
 
 [[files]]
@@ -202,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
 metafile = true
 
 [[files]]
